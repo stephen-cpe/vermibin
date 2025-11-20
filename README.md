@@ -35,4 +35,5 @@ The project utilized an Arduino-based microcontroller to read sensors and wirele
 ![Prototype Photo 6](photos/Photo0601.jpg)
 
 ---
-*This project is preserved for historical purposes and is not currently maintained.*
+
+*This project is preserved for historical purposes and is unmaintained. The code has been left in its original state—except for an updated Wi-Fi password—to authentically represent what my code looked like during my college days in 2014*
