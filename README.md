@@ -1,7 +1,7 @@
 # Vermibin: Vermicomposting System (2014)
 
 **Status:** *Archived / Legacy Project*
-
+---
 This repository serves as an archive for my 2014 college thesis, **"Vermibin."** It was an automated system designed to monitor and control the environment (temperature and soil moisture) for vermicomposting bins.
 
 The project utilized an Arduino-based microcontroller to read sensors and wirelessly transmit data to a desktop application for logging and control.
@@ -22,6 +22,8 @@ The project utilized an Arduino-based microcontroller to read sensors and wirele
 * **Visual Basic Source Code:** [GitHub Repository](https://github.com/ronilopenero/Vermibin)
 * **Development Challenges:** We encountered significant challenges with the Wi-Fi module back in 2014. You can read my [original forum post on Adafruit here](https://forums.adafruit.com/viewtopic.php?f=25&t=51273).
 
+*This project is preserved for historical purposes and is unmaintained. The code has been left in its original state—except for an updated Wi-Fi password—to authentically represent what my code looked like during my college days in 2014.*
+
 ## Gallery
 ![ATmega1281 Microcontroller](photos/atmega1281.jpg)
 ![Circuit Diagram](photos/circuit_diagram.jpg)
@@ -34,6 +36,4 @@ The project utilized an Arduino-based microcontroller to read sensors and wirele
 ![Prototype Photo 5](photos/Photo0600.jpg)
 ![Prototype Photo 6](photos/Photo0601.jpg)
 
----
 
-*This project is preserved for historical purposes and is unmaintained. The code has been left in its original state—except for an updated Wi-Fi password—to authentically represent what my code looked like during my college days in 2014*
